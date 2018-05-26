@@ -1,0 +1,24 @@
+{
+  "name": "amtrak-train-stats",
+  "version": "1.0.0",
+  "description": "Pulls live train data from Amtrak including location, destinations, and any delays",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivalize/Amtrak-Train-Stats.git"
+  },
+  "author": "Marko Ritachka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivalize/Amtrak-Train-Stats/issues"
+  },
+  "homepage": "https://github.com/Vivalize/Amtrak-Train-Stats#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "npm": "^6.1.0",
+    "require": "^2.4.20"
+  }
+}
